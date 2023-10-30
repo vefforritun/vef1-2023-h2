@@ -65,6 +65,8 @@ Aukalega skal útfæra eitt af eftirfarandi:
 
 ### Slóðir
 
+Fyrir hverja virkni skal vera slóð í vafrann sem hægt er að afrita og senda, eða endurhlaða síðu og virkni er sú sama og áður.
+
 ### Útlit
 
 Á öllum síðum skal birta haus með einföldum titli sem fer með þig á forsíðu.
